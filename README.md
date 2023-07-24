@@ -19,16 +19,23 @@ The BlogApp project, developed during the course, stands as a testament to my ne
 ### A logged in User's page:
 <img width="660" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/3acee9fb-57a0-4508-a9ed-28c9b50948f4">
 
+<strong>Note: The ROLE_ADMIN user has the access to deleted/update/view any ROLE_GUEST users comments and posts.</strong> 
+
 ## 2) Registeration Page:
 <img width="600" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/ec2b3d40-e209-4d47-b3e4-a1a1574d783e">
+<br><br>
 <img width="600" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/7b1c8a7b-b447-496e-8356-7864a7f7b6b7">
+
+### Password get's stored in a hashed value using BCrypt Algorithm:
 <img width="600" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/41c12706-b84c-4a11-8843-70d33cc2316c">
 
-<strong>Note: The ROLE_ADMIN user has the access to deleted/update/view any ROLE_GUEST users comments and posts.</strong> 
 
 ## 3)Creating a New Post:
 <img width="600" alt="image 1" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/242d5e2d-652a-4f21-b810-49e9a0149063">
+<br><br>
 <img width="600" alt="image 2" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/13a464af-364f-45f6-b3e1-422d43960cd9">
+
+### Creating a Post's Validation Part:
 <img width="600" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/bb10d1f1-4cfb-4e93-8489-d0eab6a625df">
 
 
@@ -42,13 +49,5 @@ The BlogApp project, developed during the course, stands as a testament to my ne
 
 ## 5) An unauthorized user can view the Blogs:
 <img width="600" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/78a4a90b-1c94-4d7b-bb88-cc0ae36596e6">
-<img width="959" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/ad46f838-e18f-49ea-ad31-dbd6ef393f20">
-
-
-
-
-
-
-
-
-
+<br><br>
+<img width="600" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/ad46f838-e18f-49ea-ad31-dbd6ef393f20">
