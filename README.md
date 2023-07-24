@@ -1,6 +1,6 @@
 # Spring Boot 3 Thymeleaf Real-Time Web Application
 ## Overview
-This project is a real-time web application developed as part of the Spring Boot 3 Thymeleaf course from Udemy. The application showcases various features of Spring Boot and Thymeleaf, providing dynamic web page generation and user authentication.
+The application showcases various features of Spring Boot and Thymeleaf, providing dynamic web page generation and user authentication.
 
 ## Key Learnings
 During the course, I gained proficiency in using Thymeleaf, a powerful HTML template engine, for dynamically generating web pages. I also learned about the Model-View-Controller (MVC) pattern, which helps structure web applications efficiently. Some of the key learnings include:
