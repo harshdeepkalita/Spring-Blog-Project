@@ -2,14 +2,6 @@
 ## Overview
 The application showcases various features of Spring Boot and Thymeleaf, providing dynamic web page generation and user authentication.
 
-## Key Learnings
-During the course, I gained proficiency in using Thymeleaf, a powerful HTML template engine, for dynamically generating web pages. I also learned about the Model-View-Controller (MVC) pattern, which helps structure web applications efficiently. Some of the key learnings include:
-
-- Implementing login forms and using Spring Security for user authentication.
-- Managing user permissions and controlling access to specific controller endpoints.
-- Utilizing Spring JPA and Hibernate for smooth interactions with databases.
-- Familiarizing myself with Maven for effective project dependency management.
-
 ## Project Highlights
 The BlogApp project, developed during the course, stands as a testament to my newfound skills in Spring Boot and Thymeleaf. Some of its highlights include:
 
