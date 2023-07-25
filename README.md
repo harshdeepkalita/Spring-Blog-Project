@@ -19,7 +19,7 @@ The BlogApp project, developed during the course, stands as a testament to my ne
 ### A logged in User's page:
 <img width="660" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/3acee9fb-57a0-4508-a9ed-28c9b50948f4">
 
-<strong>Note: The ROLE_ADMIN user has the access to deleted/update/view any ROLE_GUEST users comments and posts.</strong> 
+<strong>Note: The ROLE_ADMIN user has the access to delete/update/view any ROLE_GUEST users comments and posts.</strong> 
 
 ## 2) Registeration Page:
 <img width="600" alt="image" src="https://github.com/harshdeepkalita/Spring-Blog-Project/assets/96279045/ec2b3d40-e209-4d47-b3e4-a1a1574d783e">
